@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.bg-icon {
+  width: 18px;
+}
+
+.bg-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 0px;
+  padding-right: 10px;
+  width: 100%;
+}
+
+.bg-text {
+  font-size: medium;
+  padding-left: 0px;
+}
